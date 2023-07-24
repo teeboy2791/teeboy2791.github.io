@@ -9,11 +9,12 @@ tags: [web, github, jekyll, chirpy]     # TAG names should always be lowercase
 
 So if I am going to log my post work activities I am going to need a blog. If you are reading this page then I already created that blog.
 
-GitHub: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+[GitHub](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
 
-Chirpy: https://chirpy.cotes.page/posts/getting-started/
+[Chirpy](https://chirpy.cotes.page/posts/getting-started/)
 
-Chirpy Starter: 
+[Write a New Post](https://chirpy.cotes.page/posts/write-a-new-post/)
+
 
 ## Handy
 
@@ -25,4 +26,5 @@ bundle install
 bundle add webrick
 
 cd C:\Users\tonyg\OneDrive\Documents\GitHub\teeboy2791.github.io\_posts
+
 ```
