@@ -7,7 +7,7 @@ tags: [network, persimmon, wifi]     # TAG names should always be lowercase
 
 ## About Fibrenest
 
-![Fibrenest Logo](\assets\img\blue-logo.png)
+![Fibrenest Logo]({{ site.base_url }}\assets\img\blue-logo.png)
 
 If you have bought a Persimmon new build house in the last few years there is a good chance that you have been forced to have Fibrenest as a Broadband provided. 
 
