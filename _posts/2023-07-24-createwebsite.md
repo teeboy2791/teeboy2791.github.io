@@ -18,18 +18,25 @@ So if I am going to log my post work activities I am going to need a blog. If yo
 ## Install Notes
 
 1. Install the GitHub Desktop:
-> https://desktop.github.com/
+> <https://desktop.github.com/>
 2. Weirdly that doesn't install Git, so next:
-> https://gitforwindows.org/
+> <https://gitforwindows.org/>
 3. Install Ruby and the DevKit:
-> https://rubyinstaller.org/
+> <https://rubyinstaller.org/>
 4. Launch an new command window and type
-> gem install jekyl builder
+> `gem install jekyl builder`
 5. Change directory to location of blog files:
-> cd C:\Users\tonyg\Documents\GitHub\teeboy2791.github.io
+> `cd C:\Users\tonyg\Documents\GitHub\teeboy2791.github.io`
 6. Type **'bundle'** to download all the pre-requisites to Ruby
 7. Build the webseite and serve locally:
-> 'bundle exec jekyll serve
+> `bundle exec jekyll serve`
+
+To test the website you can view the local copy:
+> <`http://127.0.0.1:4000/`>
+
+Or Push the changes to GitHub, wait for the auto deployment and see the live site here:
+> <`https://teeboy2791.github.io/`>
+
 
 ## Handy
 
@@ -41,3 +48,5 @@ bundle install
 bundle add webrick
 cd C:\Users\tonyg\OneDrive\Documents\GitHub\teeboy2791.github.io\_posts
 ```
+Mark Down Tips:
+> <`https://www.markdownguide.org/basic-syntax/#bold`>

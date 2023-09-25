@@ -13,7 +13,7 @@ I have been working in IT for 27 years.
 
 I spent 15 years working at [Unisys](https://www.unisys.com/) starting as a graduate trainee progressing to Systems Architect.
 
-I then moved to [Eclipse Group Solutions](https://www.eclipsegroup.co.uk/) continuing as a Systems architect, but evolving into and eCommerce Consultants working with SAP Commerce and Adobe Commerce. Picking up additional project management and business analysis skills as I went on.
+I then moved to [Eclipse Group Solutions](https://www.eclipsegroup.co.uk/) continuing as a Systems architect, but evolving into an eCommerce Consultant working with SAP Commerce and Adobe Commerce. Picking up additional project management and business analysis skills as I went on.
 
 The longer you work in IT the less technical you get, spending more and more of my time in Word, Excel, JIRA, Confluence and Lucidchart!
 
