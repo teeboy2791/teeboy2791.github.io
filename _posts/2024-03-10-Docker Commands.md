@@ -18,23 +18,23 @@ This pages captures some of the most useful commands.
 
 List all Images:
 
-	docker images 
+`docker images` 
 
 Pull image for services with a build section in the compose file:
 
-	docker compose pull
+`docker compose pull`
 
 Start all containers in the compose file:
 
-	docker compose up -d
+`docker compose up -d`
 
 Removes everything not being used by a running container
 
-	docker system prune --volumes 
+`docker system prune --volumes`
 
 View Docker Logs (-f returns logs for a specific container)
 
-	docker logs -f watchtower
+`docker logs -f watchtower`
 
 
 

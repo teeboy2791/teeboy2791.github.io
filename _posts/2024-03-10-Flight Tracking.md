@@ -1,8 +1,8 @@
 ---
 title: Flight Tracking
 date: 2024-03-10 12:00:00 +0000
-categories: [geek, web]
-tags: [web, n100, docker, ultrafeed, piaware, flightradar]     # TAG names should always be lowercase
+categories: [geek]
+tags: [n100, network, docker, ultrafeed, piaware, flightradar]     # TAG names should always be lowercase
 ---
 
 ## Home Server
