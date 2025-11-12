@@ -7,7 +7,7 @@ B --> D{Policy Server};
 D --> B;
 B --> E{Endpoint Compliance Check};
 E --> B;
-B --> F{Network Access Device (Switch/Router/Firewall)};
+B --> F{Network Access Device};
 F --> G{Authorized Network Resources};
 F --> H{Quarantine/Remediation};
 B -- Deny Access --> H;
